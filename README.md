@@ -1,2 +1,2 @@
 # Tech-Capital
-Tech Capital Projrct 
+Tech Capital Project 
